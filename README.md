@@ -2801,7 +2801,7 @@ qmnb = {
   qmnb = {
     {memory = 32},
     {
-      name = "🌺"
+      name = "💔"
     },
     {value = 14, type = 16},
     {
